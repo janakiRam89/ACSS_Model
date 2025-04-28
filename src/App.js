@@ -5,6 +5,7 @@ import { Home } from "./pages/Home";
 
 
 export default function App(){
+  console.log("changed app for git branch")
   const theme = createTheme({
     colorSchemes: {
       dark: true,
