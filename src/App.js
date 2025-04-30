@@ -8,7 +8,7 @@ export default function App(){
   console.log("changed app for git branch")
   const theme = createTheme({
     colorSchemes: {
-      dark: true,
+      dark: false,
     },
   });
   const darkTheme = createTheme({
